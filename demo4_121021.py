@@ -1,9 +1,9 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from sklearn import model_selection
-from sklearn.ensemble import RandomForestClassifier
-import sklearn
+#from sklearn import model_selection
+#from sklearn.ensemble import RandomForestClassifier
+#import sklearn
 import matplotlib.pyplot as plt
 from PIL import Image
 from scipy import stats
