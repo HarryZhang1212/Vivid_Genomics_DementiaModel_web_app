@@ -1,15 +1,15 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from sklearn import model_selection
-from sklearn.ensemble import RandomForestClassifier
-import sklearn
+# from sklearn import model_selection
+# from sklearn.ensemble import RandomForestClassifier
+# import sklearn
 import matplotlib.pyplot as plt
 from PIL import Image
 from scipy import stats
-import plotly.figure_factory as ff
-from matplotlib.figure import Figure
-import seaborn as sns
+# import plotly.figure_factory as ff
+# from matplotlib.figure import Figure
+# import seaborn as sns
 import pickle
 
 @st.cache
