@@ -357,7 +357,7 @@ with col2:
     st.pyplot(fig)
 
 with col3:
-    st.header("Depression :cloud:")
+    st.header("Depression :rain_cloud:")
     st.write("The distribution of depression")
     st.write("condition of people in your age.")
     #plot pie chart based on age
